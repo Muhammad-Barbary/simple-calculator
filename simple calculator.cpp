@@ -20,7 +20,7 @@ int main(){
 	cout << "[2] subtract" << endl;
 	cout << "[3] multiply" << endl;
 	cout << "[4] divide" << endl;
-    cout << "[0 or any random bullshit] exit calculator" << endl;
+    cout << "[0] exit calculator" << endl;
 	cout << "\n=================\n" << endl;
 	cout << "select operation type ===> ";
 	cin >> opType;
